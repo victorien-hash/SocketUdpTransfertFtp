@@ -1,3 +1,7 @@
+Ce projet a pour but de permettre le transfert de fichiers entre un client et un serveur 
+en utilisant les sockets UDP, tout en assurant la fiabilité et l'intégrité des données 
+malgré la nature non fiable du protocole.
+
 # Instructions d'utilisation du projet
 
 ## 1. Lancer le serveur
